@@ -1,0 +1,14 @@
+{
+  "name": "deep_scraper",
+  "version": "1.0.0",
+  "description": " use superagent, cherrio to create a scraper and extract info from other source, use eventproxy to control many async request",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^0.9.0"
+  }
+}
